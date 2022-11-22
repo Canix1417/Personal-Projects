@@ -16580,6 +16580,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Addison Cahill\\Documents\\Personal-Projects\\DotNetMVCProject\\MvcMovie\\Views\\HelloWorld\\index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Addison Cahill\\Documents\\Personal-Projects\\DotNetMVCProject\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
