@@ -16590,6 +16590,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Addison Cahill\\Documents\\Personal-Projects\\DotNetMVCProject\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Addison Cahill\\Documents\\Personal-Projects\\DotNetMVCProject\\MvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
