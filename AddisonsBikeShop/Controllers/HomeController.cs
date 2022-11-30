@@ -3,8 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using AddisonsBikeShop.Models;
 
 namespace AddisonsBikeShop.Controllers;
-
-public class HomeController : Controller
+  public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
